@@ -1,5 +1,5 @@
 <p align="center">
-   <h1>Manajemen Kamar Rumah Sakit dengan Laravel 8</h1>
+   <h1>SI Ketersediaan Kamar Pasien RSUD Panembahan Senopati</h1>
 </p>
 
 ## Cara Menggunakan
@@ -9,6 +9,3 @@
 - Masukkan perintah php artisan migrate
 - Masukkan perintah php artisan serve
 - Buka aplikasi laravel lewat browser dengan masuk ke URL localhost:8000
-- Selamat Mencoba! ^^ 
-
-Bootstrap Template: Mazer by <a href="https://github.com/zuramai/mazer">Zuramai</a>
